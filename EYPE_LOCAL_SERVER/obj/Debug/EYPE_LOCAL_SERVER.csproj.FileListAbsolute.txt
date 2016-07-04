@@ -1,0 +1,121 @@
+C:\Users\andre\Desktop\programma\EYPE_LOCAL_SERVER\EYPE_LOCAL_SERVER\bin\Debug\EYPE_LOCAL_SERVER.exe.config
+C:\Users\andre\Desktop\programma\EYPE_LOCAL_SERVER\EYPE_LOCAL_SERVER\bin\Debug\EYPE_LOCAL_SERVER.exe
+C:\Users\andre\Desktop\programma\EYPE_LOCAL_SERVER\EYPE_LOCAL_SERVER\bin\Debug\EYPE_LOCAL_SERVER.pdb
+C:\Users\andre\Desktop\programma\EYPE_LOCAL_SERVER\EYPE_LOCAL_SERVER\bin\Debug\Newtonsoft.Json.dll
+C:\Users\andre\Desktop\programma\EYPE_LOCAL_SERVER\EYPE_LOCAL_SERVER\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\andre\Desktop\programma\EYPE_LOCAL_SERVER\EYPE_LOCAL_SERVER\bin\Debug\System.Web.Cors.dll
+C:\Users\andre\Desktop\programma\EYPE_LOCAL_SERVER\EYPE_LOCAL_SERVER\bin\Debug\System.Web.Http.Cors.dll
+C:\Users\andre\Desktop\programma\EYPE_LOCAL_SERVER\EYPE_LOCAL_SERVER\bin\Debug\System.Web.Http.dll
+C:\Users\andre\Desktop\programma\EYPE_LOCAL_SERVER\EYPE_LOCAL_SERVER\bin\Debug\System.Web.Http.SelfHost.dll
+C:\Users\andre\Desktop\programma\EYPE_LOCAL_SERVER\EYPE_LOCAL_SERVER\bin\Debug\Newtonsoft.Json.xml
+C:\Users\andre\Desktop\programma\EYPE_LOCAL_SERVER\EYPE_LOCAL_SERVER\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\andre\Desktop\programma\EYPE_LOCAL_SERVER\EYPE_LOCAL_SERVER\bin\Debug\System.Web.Http.xml
+C:\Users\andre\Desktop\programma\EYPE_LOCAL_SERVER\EYPE_LOCAL_SERVER\bin\Debug\System.Web.Http.Cors.xml
+C:\Users\andre\Desktop\programma\EYPE_LOCAL_SERVER\EYPE_LOCAL_SERVER\bin\Debug\System.Web.Http.SelfHost.xml
+C:\Users\andre\Desktop\programma\EYPE_LOCAL_SERVER\EYPE_LOCAL_SERVER\obj\Debug\EYPE_LOCAL_SERVER.exe
+C:\Users\andre\Desktop\programma\EYPE_LOCAL_SERVER\EYPE_LOCAL_SERVER\obj\Debug\EYPE_LOCAL_SERVER.pdb
+C:\Users\andre\Desktop\programma\EYPE_LOCAL_SERVER\EYPE_LOCAL_SERVER\bin\Debug\MySql.Data.dll
+C:\Users\andre\Desktop\programma\EYPE_LOCAL_SERVER\EYPE_LOCAL_SERVER\obj\Debug\EYPE_LOCAL_SERVER.csprojResolveAssemblyReference.cache
+C:\Users\andre\Desktop\Classe Virtuale 2016\EYPE_LOCAL_SERVER\EYPE_LOCAL_SERVER\bin\Debug\EYPE_LOCAL_SERVER.exe.config
+C:\Users\andre\Desktop\Classe Virtuale 2016\EYPE_LOCAL_SERVER\EYPE_LOCAL_SERVER\obj\Debug\EYPE_LOCAL_SERVER.exe
+C:\Users\andre\Desktop\Classe Virtuale 2016\EYPE_LOCAL_SERVER\EYPE_LOCAL_SERVER\obj\Debug\EYPE_LOCAL_SERVER.pdb
+C:\Users\andre\Desktop\Classe Virtuale 2016\EYPE_LOCAL_SERVER\EYPE_LOCAL_SERVER\bin\Debug\EYPE_LOCAL_SERVER.exe
+C:\Users\andre\Desktop\Classe Virtuale 2016\EYPE_LOCAL_SERVER\EYPE_LOCAL_SERVER\bin\Debug\EYPE_LOCAL_SERVER.pdb
+C:\Users\andre\Desktop\Classe Virtuale 2016\EYPE_LOCAL_SERVER\EYPE_LOCAL_SERVER\bin\Debug\MySql.Data.dll
+C:\Users\andre\Desktop\Classe Virtuale 2016\EYPE_LOCAL_SERVER\EYPE_LOCAL_SERVER\bin\Debug\Newtonsoft.Json.dll
+C:\Users\andre\Desktop\Classe Virtuale 2016\EYPE_LOCAL_SERVER\EYPE_LOCAL_SERVER\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\andre\Desktop\Classe Virtuale 2016\EYPE_LOCAL_SERVER\EYPE_LOCAL_SERVER\bin\Debug\System.Web.Cors.dll
+C:\Users\andre\Desktop\Classe Virtuale 2016\EYPE_LOCAL_SERVER\EYPE_LOCAL_SERVER\bin\Debug\System.Web.Http.Cors.dll
+C:\Users\andre\Desktop\Classe Virtuale 2016\EYPE_LOCAL_SERVER\EYPE_LOCAL_SERVER\bin\Debug\System.Web.Http.dll
+C:\Users\andre\Desktop\Classe Virtuale 2016\EYPE_LOCAL_SERVER\EYPE_LOCAL_SERVER\bin\Debug\System.Web.Http.SelfHost.dll
+C:\Users\andre\Desktop\Classe Virtuale 2016\EYPE_LOCAL_SERVER\EYPE_LOCAL_SERVER\bin\Debug\Newtonsoft.Json.xml
+C:\Users\andre\Desktop\Classe Virtuale 2016\EYPE_LOCAL_SERVER\EYPE_LOCAL_SERVER\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\andre\Desktop\Classe Virtuale 2016\EYPE_LOCAL_SERVER\EYPE_LOCAL_SERVER\bin\Debug\System.Web.Http.xml
+C:\Users\andre\Desktop\Classe Virtuale 2016\EYPE_LOCAL_SERVER\EYPE_LOCAL_SERVER\bin\Debug\System.Web.Http.Cors.xml
+C:\Users\andre\Desktop\Classe Virtuale 2016\EYPE_LOCAL_SERVER\EYPE_LOCAL_SERVER\bin\Debug\System.Web.Http.SelfHost.xml
+C:\Users\andre\Desktop\Classe Virtuale 2016\EYPE_LOCAL_SERVER\EYPE_LOCAL_SERVER\bin\Debug\Microsoft.Owin.Cors.dll
+C:\Users\andre\Desktop\Classe Virtuale 2016\EYPE_LOCAL_SERVER\EYPE_LOCAL_SERVER\bin\Debug\Microsoft.Owin.Diagnostics.dll
+C:\Users\andre\Desktop\Classe Virtuale 2016\EYPE_LOCAL_SERVER\EYPE_LOCAL_SERVER\bin\Debug\Microsoft.Owin.dll
+C:\Users\andre\Desktop\Classe Virtuale 2016\EYPE_LOCAL_SERVER\EYPE_LOCAL_SERVER\bin\Debug\Microsoft.Owin.FileSystems.dll
+C:\Users\andre\Desktop\Classe Virtuale 2016\EYPE_LOCAL_SERVER\EYPE_LOCAL_SERVER\bin\Debug\Microsoft.Owin.Host.HttpListener.dll
+C:\Users\andre\Desktop\Classe Virtuale 2016\EYPE_LOCAL_SERVER\EYPE_LOCAL_SERVER\bin\Debug\Microsoft.Owin.Hosting.dll
+C:\Users\andre\Desktop\Classe Virtuale 2016\EYPE_LOCAL_SERVER\EYPE_LOCAL_SERVER\bin\Debug\Microsoft.Owin.StaticFiles.dll
+C:\Users\andre\Desktop\Classe Virtuale 2016\EYPE_LOCAL_SERVER\EYPE_LOCAL_SERVER\bin\Debug\Owin.dll
+C:\Users\andre\Desktop\Classe Virtuale 2016\EYPE_LOCAL_SERVER\EYPE_LOCAL_SERVER\bin\Debug\System.Web.Http.Owin.dll
+C:\Users\andre\Desktop\Classe Virtuale 2016\EYPE_LOCAL_SERVER\EYPE_LOCAL_SERVER\bin\Debug\Microsoft.Owin.xml
+C:\Users\andre\Desktop\Classe Virtuale 2016\EYPE_LOCAL_SERVER\EYPE_LOCAL_SERVER\bin\Debug\Microsoft.Owin.Cors.xml
+C:\Users\andre\Desktop\Classe Virtuale 2016\EYPE_LOCAL_SERVER\EYPE_LOCAL_SERVER\bin\Debug\Microsoft.Owin.Diagnostics.xml
+C:\Users\andre\Desktop\Classe Virtuale 2016\EYPE_LOCAL_SERVER\EYPE_LOCAL_SERVER\bin\Debug\Microsoft.Owin.FileSystems.xml
+C:\Users\andre\Desktop\Classe Virtuale 2016\EYPE_LOCAL_SERVER\EYPE_LOCAL_SERVER\bin\Debug\Microsoft.Owin.Host.HttpListener.xml
+C:\Users\andre\Desktop\Classe Virtuale 2016\EYPE_LOCAL_SERVER\EYPE_LOCAL_SERVER\bin\Debug\Microsoft.Owin.Hosting.xml
+C:\Users\andre\Desktop\Classe Virtuale 2016\EYPE_LOCAL_SERVER\EYPE_LOCAL_SERVER\bin\Debug\Microsoft.Owin.StaticFiles.xml
+C:\Users\andre\Desktop\Classe Virtuale 2016\EYPE_LOCAL_SERVER\EYPE_LOCAL_SERVER\bin\Debug\System.Web.Http.Owin.xml
+C:\Users\andre\Desktop\Classe Virtuale 2016\EYPE_LOCAL_SERVER\EYPE_LOCAL_SERVER\obj\Debug\EYPE_LOCAL_SERVER.csprojResolveAssemblyReference.cache
+C:\Users\andre\Desktop\ccvv2016\EYPE_LOCAL_SERVER\EYPE_LOCAL_SERVER\bin\Debug\EYPE_LOCAL_SERVER.exe.config
+C:\Users\andre\Desktop\ccvv2016\EYPE_LOCAL_SERVER\EYPE_LOCAL_SERVER\obj\Debug\EYPE_LOCAL_SERVER.exe
+C:\Users\andre\Desktop\ccvv2016\EYPE_LOCAL_SERVER\EYPE_LOCAL_SERVER\obj\Debug\EYPE_LOCAL_SERVER.pdb
+C:\Users\andre\Desktop\ccvv2016\EYPE_LOCAL_SERVER\EYPE_LOCAL_SERVER\bin\Debug\EYPE_LOCAL_SERVER.exe
+C:\Users\andre\Desktop\ccvv2016\EYPE_LOCAL_SERVER\EYPE_LOCAL_SERVER\bin\Debug\EYPE_LOCAL_SERVER.pdb
+C:\Users\andre\Desktop\ccvv2016\EYPE_LOCAL_SERVER\EYPE_LOCAL_SERVER\bin\Debug\Microsoft.Owin.Cors.dll
+C:\Users\andre\Desktop\ccvv2016\EYPE_LOCAL_SERVER\EYPE_LOCAL_SERVER\bin\Debug\Microsoft.Owin.Diagnostics.dll
+C:\Users\andre\Desktop\ccvv2016\EYPE_LOCAL_SERVER\EYPE_LOCAL_SERVER\bin\Debug\Microsoft.Owin.dll
+C:\Users\andre\Desktop\ccvv2016\EYPE_LOCAL_SERVER\EYPE_LOCAL_SERVER\bin\Debug\Microsoft.Owin.FileSystems.dll
+C:\Users\andre\Desktop\ccvv2016\EYPE_LOCAL_SERVER\EYPE_LOCAL_SERVER\bin\Debug\Microsoft.Owin.Host.HttpListener.dll
+C:\Users\andre\Desktop\ccvv2016\EYPE_LOCAL_SERVER\EYPE_LOCAL_SERVER\bin\Debug\Microsoft.Owin.Hosting.dll
+C:\Users\andre\Desktop\ccvv2016\EYPE_LOCAL_SERVER\EYPE_LOCAL_SERVER\bin\Debug\Microsoft.Owin.StaticFiles.dll
+C:\Users\andre\Desktop\ccvv2016\EYPE_LOCAL_SERVER\EYPE_LOCAL_SERVER\bin\Debug\MySql.Data.dll
+C:\Users\andre\Desktop\ccvv2016\EYPE_LOCAL_SERVER\EYPE_LOCAL_SERVER\bin\Debug\Newtonsoft.Json.dll
+C:\Users\andre\Desktop\ccvv2016\EYPE_LOCAL_SERVER\EYPE_LOCAL_SERVER\bin\Debug\Owin.dll
+C:\Users\andre\Desktop\ccvv2016\EYPE_LOCAL_SERVER\EYPE_LOCAL_SERVER\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\andre\Desktop\ccvv2016\EYPE_LOCAL_SERVER\EYPE_LOCAL_SERVER\bin\Debug\System.Web.Cors.dll
+C:\Users\andre\Desktop\ccvv2016\EYPE_LOCAL_SERVER\EYPE_LOCAL_SERVER\bin\Debug\System.Web.Http.Cors.dll
+C:\Users\andre\Desktop\ccvv2016\EYPE_LOCAL_SERVER\EYPE_LOCAL_SERVER\bin\Debug\System.Web.Http.dll
+C:\Users\andre\Desktop\ccvv2016\EYPE_LOCAL_SERVER\EYPE_LOCAL_SERVER\bin\Debug\System.Web.Http.Owin.dll
+C:\Users\andre\Desktop\ccvv2016\EYPE_LOCAL_SERVER\EYPE_LOCAL_SERVER\bin\Debug\System.Web.Http.SelfHost.dll
+C:\Users\andre\Desktop\ccvv2016\EYPE_LOCAL_SERVER\EYPE_LOCAL_SERVER\bin\Debug\Microsoft.Owin.xml
+C:\Users\andre\Desktop\ccvv2016\EYPE_LOCAL_SERVER\EYPE_LOCAL_SERVER\bin\Debug\Microsoft.Owin.Cors.xml
+C:\Users\andre\Desktop\ccvv2016\EYPE_LOCAL_SERVER\EYPE_LOCAL_SERVER\bin\Debug\Microsoft.Owin.Diagnostics.xml
+C:\Users\andre\Desktop\ccvv2016\EYPE_LOCAL_SERVER\EYPE_LOCAL_SERVER\bin\Debug\Microsoft.Owin.FileSystems.xml
+C:\Users\andre\Desktop\ccvv2016\EYPE_LOCAL_SERVER\EYPE_LOCAL_SERVER\bin\Debug\Microsoft.Owin.Host.HttpListener.xml
+C:\Users\andre\Desktop\ccvv2016\EYPE_LOCAL_SERVER\EYPE_LOCAL_SERVER\bin\Debug\Microsoft.Owin.Hosting.xml
+C:\Users\andre\Desktop\ccvv2016\EYPE_LOCAL_SERVER\EYPE_LOCAL_SERVER\bin\Debug\Microsoft.Owin.StaticFiles.xml
+C:\Users\andre\Desktop\ccvv2016\EYPE_LOCAL_SERVER\EYPE_LOCAL_SERVER\bin\Debug\Newtonsoft.Json.xml
+C:\Users\andre\Desktop\ccvv2016\EYPE_LOCAL_SERVER\EYPE_LOCAL_SERVER\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\andre\Desktop\ccvv2016\EYPE_LOCAL_SERVER\EYPE_LOCAL_SERVER\bin\Debug\System.Web.Http.xml
+C:\Users\andre\Desktop\ccvv2016\EYPE_LOCAL_SERVER\EYPE_LOCAL_SERVER\bin\Debug\System.Web.Http.Cors.xml
+C:\Users\andre\Desktop\ccvv2016\EYPE_LOCAL_SERVER\EYPE_LOCAL_SERVER\bin\Debug\System.Web.Http.Owin.xml
+C:\Users\andre\Desktop\ccvv2016\EYPE_LOCAL_SERVER\EYPE_LOCAL_SERVER\bin\Debug\System.Web.Http.SelfHost.xml
+C:\Users\andre\Desktop\ccvv2016\abababa\EYPE_LOCAL_SERVER\EYPE_LOCAL_SERVER\bin\Debug\EYPE_LOCAL_SERVER.exe.config
+C:\Users\andre\Desktop\ccvv2016\abababa\EYPE_LOCAL_SERVER\EYPE_LOCAL_SERVER\obj\Debug\EYPE_LOCAL_SERVER.exe
+C:\Users\andre\Desktop\ccvv2016\abababa\EYPE_LOCAL_SERVER\EYPE_LOCAL_SERVER\obj\Debug\EYPE_LOCAL_SERVER.pdb
+C:\Users\andre\Desktop\ccvv2016\abababa\EYPE_LOCAL_SERVER\EYPE_LOCAL_SERVER\bin\Debug\EYPE_LOCAL_SERVER.exe
+C:\Users\andre\Desktop\ccvv2016\abababa\EYPE_LOCAL_SERVER\EYPE_LOCAL_SERVER\bin\Debug\EYPE_LOCAL_SERVER.pdb
+C:\Users\andre\Desktop\ccvv2016\abababa\EYPE_LOCAL_SERVER\EYPE_LOCAL_SERVER\bin\Debug\Microsoft.Owin.Cors.dll
+C:\Users\andre\Desktop\ccvv2016\abababa\EYPE_LOCAL_SERVER\EYPE_LOCAL_SERVER\bin\Debug\Microsoft.Owin.Diagnostics.dll
+C:\Users\andre\Desktop\ccvv2016\abababa\EYPE_LOCAL_SERVER\EYPE_LOCAL_SERVER\bin\Debug\Microsoft.Owin.dll
+C:\Users\andre\Desktop\ccvv2016\abababa\EYPE_LOCAL_SERVER\EYPE_LOCAL_SERVER\bin\Debug\Microsoft.Owin.FileSystems.dll
+C:\Users\andre\Desktop\ccvv2016\abababa\EYPE_LOCAL_SERVER\EYPE_LOCAL_SERVER\bin\Debug\Microsoft.Owin.Host.HttpListener.dll
+C:\Users\andre\Desktop\ccvv2016\abababa\EYPE_LOCAL_SERVER\EYPE_LOCAL_SERVER\bin\Debug\Microsoft.Owin.Hosting.dll
+C:\Users\andre\Desktop\ccvv2016\abababa\EYPE_LOCAL_SERVER\EYPE_LOCAL_SERVER\bin\Debug\Microsoft.Owin.StaticFiles.dll
+C:\Users\andre\Desktop\ccvv2016\abababa\EYPE_LOCAL_SERVER\EYPE_LOCAL_SERVER\bin\Debug\MySql.Data.dll
+C:\Users\andre\Desktop\ccvv2016\abababa\EYPE_LOCAL_SERVER\EYPE_LOCAL_SERVER\bin\Debug\Newtonsoft.Json.dll
+C:\Users\andre\Desktop\ccvv2016\abababa\EYPE_LOCAL_SERVER\EYPE_LOCAL_SERVER\bin\Debug\Owin.dll
+C:\Users\andre\Desktop\ccvv2016\abababa\EYPE_LOCAL_SERVER\EYPE_LOCAL_SERVER\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\andre\Desktop\ccvv2016\abababa\EYPE_LOCAL_SERVER\EYPE_LOCAL_SERVER\bin\Debug\System.Web.Cors.dll
+C:\Users\andre\Desktop\ccvv2016\abababa\EYPE_LOCAL_SERVER\EYPE_LOCAL_SERVER\bin\Debug\System.Web.Http.Cors.dll
+C:\Users\andre\Desktop\ccvv2016\abababa\EYPE_LOCAL_SERVER\EYPE_LOCAL_SERVER\bin\Debug\System.Web.Http.dll
+C:\Users\andre\Desktop\ccvv2016\abababa\EYPE_LOCAL_SERVER\EYPE_LOCAL_SERVER\bin\Debug\System.Web.Http.Owin.dll
+C:\Users\andre\Desktop\ccvv2016\abababa\EYPE_LOCAL_SERVER\EYPE_LOCAL_SERVER\bin\Debug\System.Web.Http.SelfHost.dll
+C:\Users\andre\Desktop\ccvv2016\abababa\EYPE_LOCAL_SERVER\EYPE_LOCAL_SERVER\bin\Debug\Microsoft.Owin.xml
+C:\Users\andre\Desktop\ccvv2016\abababa\EYPE_LOCAL_SERVER\EYPE_LOCAL_SERVER\bin\Debug\Microsoft.Owin.Cors.xml
+C:\Users\andre\Desktop\ccvv2016\abababa\EYPE_LOCAL_SERVER\EYPE_LOCAL_SERVER\bin\Debug\Microsoft.Owin.Diagnostics.xml
+C:\Users\andre\Desktop\ccvv2016\abababa\EYPE_LOCAL_SERVER\EYPE_LOCAL_SERVER\bin\Debug\Microsoft.Owin.FileSystems.xml
+C:\Users\andre\Desktop\ccvv2016\abababa\EYPE_LOCAL_SERVER\EYPE_LOCAL_SERVER\bin\Debug\Microsoft.Owin.Host.HttpListener.xml
+C:\Users\andre\Desktop\ccvv2016\abababa\EYPE_LOCAL_SERVER\EYPE_LOCAL_SERVER\bin\Debug\Microsoft.Owin.Hosting.xml
+C:\Users\andre\Desktop\ccvv2016\abababa\EYPE_LOCAL_SERVER\EYPE_LOCAL_SERVER\bin\Debug\Microsoft.Owin.StaticFiles.xml
+C:\Users\andre\Desktop\ccvv2016\abababa\EYPE_LOCAL_SERVER\EYPE_LOCAL_SERVER\bin\Debug\Newtonsoft.Json.xml
+C:\Users\andre\Desktop\ccvv2016\abababa\EYPE_LOCAL_SERVER\EYPE_LOCAL_SERVER\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\andre\Desktop\ccvv2016\abababa\EYPE_LOCAL_SERVER\EYPE_LOCAL_SERVER\bin\Debug\System.Web.Http.xml
+C:\Users\andre\Desktop\ccvv2016\abababa\EYPE_LOCAL_SERVER\EYPE_LOCAL_SERVER\bin\Debug\System.Web.Http.Cors.xml
+C:\Users\andre\Desktop\ccvv2016\abababa\EYPE_LOCAL_SERVER\EYPE_LOCAL_SERVER\bin\Debug\System.Web.Http.Owin.xml
+C:\Users\andre\Desktop\ccvv2016\abababa\EYPE_LOCAL_SERVER\EYPE_LOCAL_SERVER\bin\Debug\System.Web.Http.SelfHost.xml
