@@ -1,0 +1,1 @@
+Drop in this directory (wwwroot) the client sowtfare to make the server work.
